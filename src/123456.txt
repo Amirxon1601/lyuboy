@@ -1,0 +1,40 @@
+INSERT INTO userss(firstName, lastName, phone_number, user_name, password, account)
+VALUES('Amirxon', 'To`raxojayev', '+998946062272', 'Amir1601', 'etmiman', 1122)
+insert into userss(firstName, lastName, phone_number, user_name, password, account)
+values('Abduxalil', 'Raxmonberdiyev', '+998932144244', '@developerabduxalil', 'salom', 100000);
+insert into userss(firstName, lastName, phone_number, user_name, password, account)
+values('Abdulvohid', 'Ergashev', '+998909664793', 'abduvohid0131', 'pass123', 100000);
+insert into userss(firstName,lastName, phone_number, user_name,password,account) 
+values('Dovud','To`lqinjonov','+998950645097','Dovud','123',250000);
+
+
+insert into userss(firstName, lastName, phone_number, user_name, password, account) 
+values('Xusniddin', 'Asomiddinov', '+998990302056', '_Xusniddin', 'qwe123', 300000 );
+insert into userss(firstName, lastName, phone_number, user_name, password, account)
+values('Faxriyor', 'To`rayev', '+998931522142', 'Faxa08', 'bezparol', 1023156);
+insert into userss(firstName, lastName, phone_number, user_name, password, account)
+values('Anvarjon', 'Nosirov', '+998903817936', '@anvarjonnosirov', '1234', 17000);
+insert into userss(firstName, lastName, phone_number, user_name, password, account)
+values('Otabek', 'Sandiyev', '+998885238737', 'Otabek_8737', '147258', 123486);
+insert into userss(firstName, lastName, phone_number, user_name, password, account)
+values('Sirojiddin', 'Nematov', '+998904002500', 'nematovsr', 'nematov16', 100000);
+insert into userss(firstName, lastName, phone_number, user_name, password, account) 
+values ('Yusuf', 'Mahmudov', '+998909098108', 'yusuf', '12345678', 112233);
+insert into userss(firstName, lastName, phone_number, user_name, password, account) values('Shohrux','Shokirov','9989900011997','123456', 'Shokhrukhs' ,3000000000000);
+insert into userss(firstName,lastName,phone_number,user_name,password,account) 
+values ('Atxambek','Abdulhayev','+998931873602','Atkham','atkham2002',123456);
+insert into userss(firstName,lastName,phone_number,user_name,password,account) 
+values('Baxtishod','Rajabov','+998933803311','Baxtishod','1221',100000),
+('Isomiddin','Dehqonov','+998911169831','isomiddindehqonov','123456abs',300000);
+insert into userss(firstName,lastName,phone_number,user_name,password,account) 
+values('Sayfullayev','Salohiddin','90 135 15 33','ayyubiy','12345678',700000);
+INSERT INTO userss(firstName, lastName, phone_number, user_name, password, account) 
+values ('Abdulloh', 'Anvarov', '+998990771601', 'Abdulloh_1601', '0771601d', 400000);
+insert into userss(firstName,lastName,phone_number,user_name,password,account) 
+values('Toshpo`lat','Yusupov','+998901234567','Toshpo`lat','1234',9999999);
+insert into userss(firstName, lastName, phone_number, user_name, password, account)
+values('Abdumalik', 'Sobirov', '95-190-80-92','malik12' ,'98ry32c3wjg', 123456);
+insert into userss(firstName, lastName, phone_number, user_name, password, account) values ('Ibrohim', 'Ahmadjonov', '+998935516377', 'Gaara', '6377', 12345678);
+insert into userss(firstName, lastName, phone_number, user_name, password, account)
+values ('Sardor', 'Shorahimov', '+998999124625', 'sardorbroo', '(o_o)', 123456789),
+('Abdulloh','Qosimov','+998998677178','abdullohqwe','n2m37178',100000000);
